@@ -1,4 +1,4 @@
-package cap03lab2;
+package cap03lab02;
 
 import java.util.Scanner;
 
